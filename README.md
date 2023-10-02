@@ -5,6 +5,9 @@
 ## 02 Выгрузка cbrf
 ## 03 Тестовое заданеи Сфера
 ![Дашборд 03](https://github.com/ArtemFilosofGB/PowerBIpractics/blob/main/03_Cфера%20тестовое%20задание/Тестовой%20задание%201%20230923.JPG)
+## 04 ТЗ
+## 05 Аско
+![Дашборд 05](05_Asko_task/DashboardAsko.PNG)
 
 
 ## Полезные пямятки
