@@ -1,11 +1,14 @@
 # Power BI practic projects
 
 ## 01 Автодиллер продажи по регионам
-![Дашборд 01](https://github.com/ArtemFilosofGB/PowerBIpractics/blob/main/01_Autodealler/01.JPG)
+![Дашборд 01](01_Autodealler/01.JPG)
 ## 02 Выгрузка cbrf
 ## 03 Тестовое заданеи Сфера
-![Дашборд 03](https://github.com/ArtemFilosofGB/PowerBIpractics/blob/main/03_Cфера%20тестовое%20задание/Тестовой%20задание%201%20230923.JPG)
-## 04 ТЗ
+![Дашборд 03](03_Cфера%20тестовое%20задание/Тестовой%20задание%201%20230923.JPG)
+## 04 Анализ продаж 
+*По клиентам, в разрезе периода с перекрёстной фильтрацией между элементами отчётами*
+![04](image.png)
+
 ## 05 Аско
 ![Дашборд 05](05_Asko_task/DashboardAsko.PNG)
 
