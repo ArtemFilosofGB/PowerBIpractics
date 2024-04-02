@@ -14,7 +14,7 @@
 
 ## 06 Exel Dashboard 
 *Визуальное представление данных из сводных таблиц*
-![06](06.png)
+![06](06_Exel_Dashboard/06.png)
 
 ## 08 Tram Accident
 ![Статистика ДТП трамвайного депо г.Москвы](08_Tram_Accident/tram.png)
