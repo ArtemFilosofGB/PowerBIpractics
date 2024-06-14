@@ -1,5 +1,9 @@
 # Power BI practic projects
 
+Привет!
+Вот некоторые из моих работ.
+Если интересует взаимодействие по направлению Аналитика, Exel, Power BI, SQL прошу обращатся: [artemfilosof](https://t.me/artemfilosof)
+
 ## 11 Автодиллер 
 ![Автодиллер](/11_Auto2/pic01.png)
 ![Автодиллер](/11_Auto2/pic03.png)
@@ -10,9 +14,6 @@
 ## 08 Tram Accident
 ![Статистика ДТП трамвайного депо г.Москвы](08_Tram_Accident/tram.png)
 
-## 06 Exel Dashboard 
-*Визуальное представление данных из сводных таблиц*
-![06](06_Exel_Dashboard/06.png)
 
 ## 05 Аско
 ![Дашборд 05](05_Asko_task/DashboardAsko.PNG)
